@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @babuxforever
-- 👀 I’m interested in Web Development Especially in Frontend
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, My name is Muhammad Reza Amarullah, and I'm an Informatics student at Samarinda State Polytechnic who is interested in web developer and UI/UX designer. I'm currently learning Javascript, Laravel, and React.js and improving PHP. That's all and thank you for visiting my profile.
 
-<!---
-babuxforever/babuxforever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
