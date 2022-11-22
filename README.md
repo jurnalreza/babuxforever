@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Muhammad Reza Amarullah and I'm Multimedia Informatics<br>Student at Samarinda State Polytechnic who is interested with web<br>development and UI/UX designer. I'm currently learning PHP, Laravel<br>Javascript, React.Js, and Java GUI. After Graduated from my college,<br>I will work as freelancer. That's all and thank you for visiting my github<br>profile.
+Hi, I'm Muhammad Reza Amarullah and I'm Multimedia Informatics Student at Samarinda State Polytechnic who is interested with web<br>development and UI/UX designer. I'm currently learning PHP, Laravel Javascript, React.Js, and Java GUI. After Graduated from my college, I will work as freelancer. That's all and thank you for visiting my github profile.
 
 
 ## 🌐 Socials:
